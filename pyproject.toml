@@ -1,0 +1,9 @@
+[project]
+name = "impact-first-residency"
+version = "0.1.0"
+description = "Research on monitoring the robustness of constitutional classifiers to adversarial attacks"
+requires-python = ">=3.10"
+dependencies = []
+
+[tool.uv]
+package = false
