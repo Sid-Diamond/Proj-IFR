@@ -26,7 +26,6 @@
 - Run proportionate tests after changes.
 - Report failed assumptions and unexpected behaviour.
 - Do not commit, push, delete, or substantially restructure files without explicit approval.
-
 ## Communication and collaboration
 - Keep the user informed during active work: send a progress update no later than two minutes after the previous user-facing message, including when research or tool calls are still in progress. Say what has been learned, what is happening next, and any decision that needs the user's input. If nothing has changed, say so briefly rather than letting the interval lapse. A long package download is the only routine exception.
 - Before starting a process likely to take more than two minutes, tell the user what it will do, why it may take that long, and when to expect the next update. Check in before another long step. Do not silently disappear into research, a large file read, or a lengthy tool call.
