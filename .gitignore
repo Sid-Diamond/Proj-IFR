@@ -15,6 +15,7 @@ htmlcov/
 .ipynb_checkpoints/
 
 # Local configuration and credentials
+/Gitignore Sid/
 .env
 .env.*
 !.env.example
