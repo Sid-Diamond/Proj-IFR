@@ -10,11 +10,13 @@ The project is supervised by Samuel Simko and James Teal. Four residents will us
 
 - The specific classifiers, adversarial attacks, monitoring methods and evaluation metrics are not yet selected.
 - Preliminary papers are in `literature/`; a literature document will be added to help scope the research.
+- Local reference clones are `EuroSafeGuard/` and `REDACT/` at the project root. Sid's current EuroSafeGuard notes are `Gitignore Sid/EuroSafeGuard notes/EuroSafeGuard-notes.tex` and its PDF; edit the LaTeX, not the earlier HTML draft. Preserve his wording, use standard LaTeX lecture-note formatting, and keep agreed additions blue. Detailed decisions and build instructions are in `project-logs/2026-11-09.md`.
 - When discussing EuroSafeGuard, consult the local repository `EuroSafeGuard/` and the paper in `literature/Constitional Classifiers/EuroSafeGuard.pdf` or `EuroSafeGuard/paper/EuroSafeGuard.pdf` before searching online. Use online sources only when the needed information is unavailable locally or the user requests an online search.
 - Python is expected to be the main language. uv is a provisional tooling choice, pending confirmation of the team's preference.
 - Literature and useful reference repositories are intended to be shared with the residents, subject to applicable permissions.
 - The project may use private datasets, API keys and large experiment outputs. Local `data/` and `outputs/` directories and `.env` files are ignored by Git.
 - `working-paper/working-paper.md` collects the paper outline and verified facts; `project-logs/` holds session history. Agents need an explicit instruction before running paid model API calls.
+- Routine paper Q&A is read-only unless Sid asks to save or edit material. Next step: continue user-directed notes edits or paper discussion; no experiment has been selected or authorized.
 
 ## Open questions
 
