@@ -14,7 +14,7 @@ The classifiers, attacks, monitoring approaches and evaluation metrics are still
 - `literature/` — preliminary papers and shared literature materials.
 - `AGENTS.md` — guidance for AI coding agents working in this repository.
 - `Codex Md Files/` — detailed agent working rules and project context.
-- `working-paper.md` — evolving paper outline and verified facts.
+- `working-paper/` — evolving paper outline and verified facts in `working-paper.md`.
 
 Create `project-logs/` for session history as it is needed.
 

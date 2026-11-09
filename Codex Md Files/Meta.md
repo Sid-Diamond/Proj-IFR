@@ -12,7 +12,7 @@
   - what is uncertain.
 
 ## Scientific work
-- During experiment and paper-preparation discussions, check whether new agreed or verified facts belong in `working-paper.md`. Add clear fits concisely with their provenance and tell the user what was added. If inclusion or interpretation is uncertain, propose the addition and ask before recording it as an agreed fact.
+- During experiment and paper-preparation discussions, check whether new agreed or verified facts belong in `working-paper/working-paper.md`. Add clear fits concisely with their provenance and tell the user what was added. If inclusion or interpretation is uncertain, propose the addition and ask before recording it as an agreed fact.
 - Preserve experimental conditions unless explicitly changing them.
 - Treat reproducibility as a first-class requirement.
 - Log model, provider, prompt/config, seed/temperature where available, outputs, and classifier results.
